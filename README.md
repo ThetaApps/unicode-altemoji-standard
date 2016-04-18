@@ -1,0 +1,1 @@
+# unicode-altemoji-standard
